@@ -4,6 +4,7 @@ using namespace std;
 
 int main(){
 cout<<"Hello World"<<endl;
-cout<<"J'ai tout modifiééééé"<<endl;
+cout<<"J'ai tout modifieeeee"<<endl;
+cout<<"t'as rien modifié, t'as juste créé le patch 1.1"<<endl
 return 0;
 }
